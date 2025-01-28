@@ -1,7 +1,7 @@
 # Tip Calculator Application
 
 ## Overview
-This is a simple Tip Calculator application designed to calculate the tip amount based on the bill amount, service quality, and the number of people sharing the bill. The application uses HTML, CSS, and JavaScript for implementation.
+This is a simple Tip Calculator  application designed to calculate the tip amount based on the bill amount, service quality, and the number of people sharing the bill. The application uses HTML, CSS, and JavaScript for implementation.
 
 ## Features
 - **Input Fields:**
